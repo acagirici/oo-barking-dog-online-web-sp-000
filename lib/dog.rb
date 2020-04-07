@@ -8,8 +8,7 @@ class Dog
     @this_dogs_name
   end
   
-  def bark=(woof)
-    @bark
+  def bark
     puts "woof!" 
   end
 end
